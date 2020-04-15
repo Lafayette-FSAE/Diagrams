@@ -1,6 +1,6 @@
 # Diagrams
-A repository for diagrams that don't belong to a specific PCB or codebase. The team encourages the use of Inkscape for such diagrams so that they can be version controlled
+A repository for diagrams that don't belong to a specific PCB or codebase. The team encourages the use of Inkscape for such diagrams so that they can be version controlled.
 
-## AMS Segment
+To display version controlled 
 
-![AMS Segment Diagram](https://raw.githubusercontent.com/Lafayette-FSAE/Diagrams/master/AMS_segment_plain.svg?token=AEMMHTVSBVDDUFPQQZOVOU26S53DG)
+![](https://raw.githubusercontent.com/Lafayette-FSAE/Diagrams/master/AMS_segment_plain.svg?token=AEMMHTVSBVDDUFPQQZOVOU26S53DG)
